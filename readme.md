@@ -1,4 +1,4 @@
-# Mind the Gap: Offline Policy Optimization for Imperfect Rewards
+# Mind the Gap: Offline Policy Optimization for Imperfect Rewards (ICLR 2023)
 This is the official implementation of RGM (Reward Gap Minimization) (https://openreview.net/forum?id=WumysvcMvV6). RGM can be perceived as a hybrid offline RL
 and offline IL method that can handle diverse types of imperfect rewards include but not limited to
 **partially correct reward, sparse reward, multi-task datasharing setting and completely incorrect rewards.**
